@@ -3,7 +3,7 @@
 记录百度热搜从 2024-01-13 日至今的热搜，每小时抓取一次数据，按天[归档](archives)。
 
 
-`更新时间：2024-07-10 02:23:08 +0800`
+`更新时间：2024-07-10 03:14:14 +0800`
 
 ## 百度热榜
 
@@ -11,10 +11,11 @@
 1. [郑州金水河护坡塌方:曾花25亿元整治](https://www.baidu.com/s?wd=%E9%83%91%E5%B7%9E%E9%87%91%E6%B0%B4%E6%B2%B3%E6%8A%A4%E5%9D%A1%E5%A1%8C%E6%96%B9%3A%E6%9B%BE%E8%8A%B125%E4%BA%BF%E5%85%83%E6%95%B4%E6%B2%BB&sa=fyb_news&rsv_dl=fyb_news)
 1. [着眼全国“一盘棋”](https://www.baidu.com/s?wd=%E7%9D%80%E7%9C%BC%E5%85%A8%E5%9B%BD%E2%80%9C%E4%B8%80%E7%9B%98%E6%A3%8B%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 1. [公职人员夜摘豆角引纠纷 纪委介入](https://www.baidu.com/s?wd=%E5%85%AC%E8%81%8C%E4%BA%BA%E5%91%98%E5%A4%9C%E6%91%98%E8%B1%86%E8%A7%92%E5%BC%95%E7%BA%A0%E7%BA%B7+%E7%BA%AA%E5%A7%94%E4%BB%8B%E5%85%A5&sa=fyb_news&rsv_dl=fyb_news)
+1. [西班牙vs法国](https://www.baidu.com/s?wd=%E8%A5%BF%E7%8F%AD%E7%89%99vs%E6%B3%95%E5%9B%BD&sa=fyb_news&rsv_dl=fyb_news)
 1. [福州一企业发生燃爆 碎片飞入村民家](https://www.baidu.com/s?wd=%E7%A6%8F%E5%B7%9E%E4%B8%80%E4%BC%81%E4%B8%9A%E5%8F%91%E7%94%9F%E7%87%83%E7%88%86+%E7%A2%8E%E7%89%87%E9%A3%9E%E5%85%A5%E6%9D%91%E6%B0%91%E5%AE%B6&sa=fyb_news&rsv_dl=fyb_news)
 1. [空客上半年净订单量达310架](https://www.baidu.com/s?wd=%E7%A9%BA%E5%AE%A2%E4%B8%8A%E5%8D%8A%E5%B9%B4%E5%87%80%E8%AE%A2%E5%8D%95%E9%87%8F%E8%BE%BE310%E6%9E%B6&sa=fyb_news&rsv_dl=fyb_news)
-1. [业主砸围墙向隔壁小区排水](https://www.baidu.com/s?wd=%E4%B8%9A%E4%B8%BB%E7%A0%B8%E5%9B%B4%E5%A2%99%E5%90%91%E9%9A%94%E5%A3%81%E5%B0%8F%E5%8C%BA%E6%8E%92%E6%B0%B4&sa=fyb_news&rsv_dl=fyb_news)
 1. [桂林一风雨桥被洪水冲毁?谣言](https://www.baidu.com/s?wd=%E6%A1%82%E6%9E%97%E4%B8%80%E9%A3%8E%E9%9B%A8%E6%A1%A5%E8%A2%AB%E6%B4%AA%E6%B0%B4%E5%86%B2%E6%AF%81%3F%E8%B0%A3%E8%A8%80&sa=fyb_news&rsv_dl=fyb_news)
+1. [业主砸围墙向隔壁小区排水](https://www.baidu.com/s?wd=%E4%B8%9A%E4%B8%BB%E7%A0%B8%E5%9B%B4%E5%A2%99%E5%90%91%E9%9A%94%E5%A3%81%E5%B0%8F%E5%8C%BA%E6%8E%92%E6%B0%B4&sa=fyb_news&rsv_dl=fyb_news)
 1. [重庆一垃圾车撞垮民房墙壁](https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E4%B8%80%E5%9E%83%E5%9C%BE%E8%BD%A6%E6%92%9E%E5%9E%AE%E6%B0%91%E6%88%BF%E5%A2%99%E5%A3%81&sa=fyb_news&rsv_dl=fyb_news)
 1. [日本防熊警示牌引争议](https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E9%98%B2%E7%86%8A%E8%AD%A6%E7%A4%BA%E7%89%8C%E5%BC%95%E4%BA%89%E8%AE%AE&sa=fyb_news&rsv_dl=fyb_news)
 1. [山东舰编队最新动向](https://www.baidu.com/s?wd=%E5%B1%B1%E4%B8%9C%E8%88%B0%E7%BC%96%E9%98%9F%E6%9C%80%E6%96%B0%E5%8A%A8%E5%90%91&sa=fyb_news&rsv_dl=fyb_news)
@@ -45,8 +46,8 @@
 1. [傅园慧即将入职浙江大学](https://www.baidu.com/s?wd=%E5%82%85%E5%9B%AD%E6%85%A7%E5%8D%B3%E5%B0%86%E5%85%A5%E8%81%8C%E6%B5%99%E6%B1%9F%E5%A4%A7%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news)
 1. [尹锡悦称俄在韩朝之间只能选一个](https://www.baidu.com/s?wd=%E5%B0%B9%E9%94%A1%E6%82%A6%E7%A7%B0%E4%BF%84%E5%9C%A8%E9%9F%A9%E6%9C%9D%E4%B9%8B%E9%97%B4%E5%8F%AA%E8%83%BD%E9%80%89%E4%B8%80%E4%B8%AA&sa=fyb_news&rsv_dl=fyb_news)
 1. [狗狗为救小主人被蛇咬伤后刨坑等死](https://www.baidu.com/s?wd=%E7%8B%97%E7%8B%97%E4%B8%BA%E6%95%91%E5%B0%8F%E4%B8%BB%E4%BA%BA%E8%A2%AB%E8%9B%87%E5%92%AC%E4%BC%A4%E5%90%8E%E5%88%A8%E5%9D%91%E7%AD%89%E6%AD%BB&sa=fyb_news&rsv_dl=fyb_news)
-1. [台湾高雄超2万户大停电](https://www.baidu.com/s?wd=%E5%8F%B0%E6%B9%BE%E9%AB%98%E9%9B%84%E8%B6%852%E4%B8%87%E6%88%B7%E5%A4%A7%E5%81%9C%E7%94%B5&sa=fyb_news&rsv_dl=fyb_news)
 1. [临沂市文联主席遇害身亡 身中数刀](https://www.baidu.com/s?wd=%E4%B8%B4%E6%B2%82%E5%B8%82%E6%96%87%E8%81%94%E4%B8%BB%E5%B8%AD%E9%81%87%E5%AE%B3%E8%BA%AB%E4%BA%A1+%E8%BA%AB%E4%B8%AD%E6%95%B0%E5%88%80&sa=fyb_news&rsv_dl=fyb_news)
+1. [台湾高雄超2万户大停电](https://www.baidu.com/s?wd=%E5%8F%B0%E6%B9%BE%E9%AB%98%E9%9B%84%E8%B6%852%E4%B8%87%E6%88%B7%E5%A4%A7%E5%81%9C%E7%94%B5&sa=fyb_news&rsv_dl=fyb_news)
 1. [印尼金矿山体滑坡已造成48人失踪](https://www.baidu.com/s?wd=%E5%8D%B0%E5%B0%BC%E9%87%91%E7%9F%BF%E5%B1%B1%E4%BD%93%E6%BB%91%E5%9D%A1%E5%B7%B2%E9%80%A0%E6%88%9048%E4%BA%BA%E5%A4%B1%E8%B8%AA&sa=fyb_news&rsv_dl=fyb_news)
 1. [专家称A股长期来看肯定赚钱](https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E7%A7%B0A%E8%82%A1%E9%95%BF%E6%9C%9F%E6%9D%A5%E7%9C%8B%E8%82%AF%E5%AE%9A%E8%B5%9A%E9%92%B1&sa=fyb_news&rsv_dl=fyb_news)
 1. [私家车被落石砸中3死2伤](https://www.baidu.com/s?wd=%E7%A7%81%E5%AE%B6%E8%BD%A6%E8%A2%AB%E8%90%BD%E7%9F%B3%E7%A0%B8%E4%B8%AD3%E6%AD%BB2%E4%BC%A4&sa=fyb_news&rsv_dl=fyb_news)
@@ -56,7 +57,6 @@
 1. [俄印领导人将举行大小范围会谈](https://www.baidu.com/s?wd=%E4%BF%84%E5%8D%B0%E9%A2%86%E5%AF%BC%E4%BA%BA%E5%B0%86%E4%B8%BE%E8%A1%8C%E5%A4%A7%E5%B0%8F%E8%8C%83%E5%9B%B4%E4%BC%9A%E8%B0%88&sa=fyb_news&rsv_dl=fyb_news)
 1. [北京有多少所985大学](https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E6%9C%89%E5%A4%9A%E5%B0%91%E6%89%80985%E5%A4%A7%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news)
 1. [985大学排行](https://www.baidu.com/s?wd=985%E5%A4%A7%E5%AD%A6%E6%8E%92%E8%A1%8C&sa=fyb_news&rsv_dl=fyb_news)
-1. [高考录取](https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E5%BD%95%E5%8F%96&sa=fyb_news&rsv_dl=fyb_news)
 
 
 ## 历史归档
