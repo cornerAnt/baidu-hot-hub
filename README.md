@@ -3,13 +3,14 @@
 记录百度热搜从 2024-01-13 日至今的热搜，每小时抓取一次数据，按天[归档](archives)。
 
 
-`更新时间：2024-09-28 06:18:05 +0800`
+`更新时间：2024-09-28 07:18:27 +0800`
 
 ## 百度热榜
 
 1. [房地产新政首日：房东不愿再让价](https://www.baidu.com/s?wd=%E6%88%BF%E5%9C%B0%E4%BA%A7%E6%96%B0%E6%94%BF%E9%A6%96%E6%97%A5%EF%BC%9A%E6%88%BF%E4%B8%9C%E4%B8%8D%E6%84%BF%E5%86%8D%E8%AE%A9%E4%BB%B7&sa=fyb_news&rsv_dl=fyb_news)
 1. [哈利波特麦格教授扮演者去世](https://www.baidu.com/s?wd=%E5%93%88%E5%88%A9%E6%B3%A2%E7%89%B9%E9%BA%A6%E6%A0%BC%E6%95%99%E6%8E%88%E6%89%AE%E6%BC%94%E8%80%85%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)
 1. [全国各地装扮一新迎国庆](https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E5%90%84%E5%9C%B0%E8%A3%85%E6%89%AE%E4%B8%80%E6%96%B0%E8%BF%8E%E5%9B%BD%E5%BA%86&sa=fyb_news&rsv_dl=fyb_news)
+1. [因为A股，第一次不想放假](https://www.baidu.com/s?wd=%E5%9B%A0%E4%B8%BAA%E8%82%A1%EF%BC%8C%E7%AC%AC%E4%B8%80%E6%AC%A1%E4%B8%8D%E6%83%B3%E6%94%BE%E5%81%87&sa=fyb_news&rsv_dl=fyb_news)
 1. [官方通报商铺93克黄金变84克](https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E5%95%86%E9%93%BA93%E5%85%8B%E9%BB%84%E9%87%91%E5%8F%9884%E5%85%8B&sa=fyb_news&rsv_dl=fyb_news)
 1. [发改委：民企和民营企业家是自己人](https://www.baidu.com/s?wd=%E5%8F%91%E6%94%B9%E5%A7%94%EF%BC%9A%E6%B0%91%E4%BC%81%E5%92%8C%E6%B0%91%E8%90%A5%E4%BC%81%E4%B8%9A%E5%AE%B6%E6%98%AF%E8%87%AA%E5%B7%B1%E4%BA%BA&sa=fyb_news&rsv_dl=fyb_news)
 1. [2024年全国赏秋地图出炉](https://www.baidu.com/s?wd=2024%E5%B9%B4%E5%85%A8%E5%9B%BD%E8%B5%8F%E7%A7%8B%E5%9C%B0%E5%9B%BE%E5%87%BA%E7%82%89&sa=fyb_news&rsv_dl=fyb_news)
@@ -17,7 +18,6 @@
 1. [赵长鹏将带着600亿美元财富重获自由](https://www.baidu.com/s?wd=%E8%B5%B5%E9%95%BF%E9%B9%8F%E5%B0%86%E5%B8%A6%E7%9D%80600%E4%BA%BF%E7%BE%8E%E5%85%83%E8%B4%A2%E5%AF%8C%E9%87%8D%E8%8E%B7%E8%87%AA%E7%94%B1&sa=fyb_news&rsv_dl=fyb_news)
 1. [燃油车价格战重启](https://www.baidu.com/s?wd=%E7%87%83%E6%B2%B9%E8%BD%A6%E4%BB%B7%E6%A0%BC%E6%88%98%E9%87%8D%E5%90%AF&sa=fyb_news&rsv_dl=fyb_news)
 1. [宋佳向华坪县捐款100万](https://www.baidu.com/s?wd=%E5%AE%8B%E4%BD%B3%E5%90%91%E5%8D%8E%E5%9D%AA%E5%8E%BF%E6%8D%90%E6%AC%BE100%E4%B8%87&sa=fyb_news&rsv_dl=fyb_news)
-1. [霍格沃茨从此再无校长](https://www.baidu.com/s?wd=%E9%9C%8D%E6%A0%BC%E6%B2%83%E8%8C%A8%E4%BB%8E%E6%AD%A4%E5%86%8D%E6%97%A0%E6%A0%A1%E9%95%BF&sa=fyb_news&rsv_dl=fyb_news)
 1. [“和谐号”开进武汉地铁站？误解](https://www.baidu.com/s?wd=%E2%80%9C%E5%92%8C%E8%B0%90%E5%8F%B7%E2%80%9D%E5%BC%80%E8%BF%9B%E6%AD%A6%E6%B1%89%E5%9C%B0%E9%93%81%E7%AB%99%EF%BC%9F%E8%AF%AF%E8%A7%A3&sa=fyb_news&rsv_dl=fyb_news)
 1. [石破茂能否扭转日本选举闹剧颓势](https://www.baidu.com/s?wd=%E7%9F%B3%E7%A0%B4%E8%8C%82%E8%83%BD%E5%90%A6%E6%89%AD%E8%BD%AC%E6%97%A5%E6%9C%AC%E9%80%89%E4%B8%BE%E9%97%B9%E5%89%A7%E9%A2%93%E5%8A%BF&sa=fyb_news&rsv_dl=fyb_news)
 1. [武汉江夏区1.6级地震](https://www.baidu.com/s?wd=%E6%AD%A6%E6%B1%89%E6%B1%9F%E5%A4%8F%E5%8C%BA1.6%E7%BA%A7%E5%9C%B0%E9%9C%87&sa=fyb_news&rsv_dl=fyb_news)
