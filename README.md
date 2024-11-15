@@ -3,7 +3,7 @@
 记录百度热搜从 2024-01-13 日至今的热搜，每小时抓取一次数据，按天[归档](archives)。
 
 
-`更新时间：2024-11-16 02:27:15 +0800`
+`更新时间：2024-11-16 03:15:47 +0800`
 
 ## 百度热榜
 
@@ -17,8 +17,9 @@
 1. [俄罗斯开出停战先决条件](https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E5%BC%80%E5%87%BA%E5%81%9C%E6%88%98%E5%85%88%E5%86%B3%E6%9D%A1%E4%BB%B6&sa=fyb_news&rsv_dl=fyb_news)
 1. [小行业潜藏“大能量”](https://www.baidu.com/s?wd=%E5%B0%8F%E8%A1%8C%E4%B8%9A%E6%BD%9C%E8%97%8F%E2%80%9C%E5%A4%A7%E8%83%BD%E9%87%8F%E2%80%9D&sa=fyb_news&rsv_dl=fyb_news)
 1. [美称绝不认同对以色列的种族灭绝指控](https://www.baidu.com/s?wd=%E7%BE%8E%E7%A7%B0%E7%BB%9D%E4%B8%8D%E8%AE%A4%E5%90%8C%E5%AF%B9%E4%BB%A5%E8%89%B2%E5%88%97%E7%9A%84%E7%A7%8D%E6%97%8F%E7%81%AD%E7%BB%9D%E6%8C%87%E6%8E%A7&sa=fyb_news&rsv_dl=fyb_news)
-1. [德国连环强奸案告破 嫌犯系中国公民](https://www.baidu.com/s?wd=%E5%BE%B7%E5%9B%BD%E8%BF%9E%E7%8E%AF%E5%BC%BA%E5%A5%B8%E6%A1%88%E5%91%8A%E7%A0%B4+%E5%AB%8C%E7%8A%AF%E7%B3%BB%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91&sa=fyb_news&rsv_dl=fyb_news)
+1. [上海一路面的“操”字成网红打卡点](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E4%B8%80%E8%B7%AF%E9%9D%A2%E7%9A%84%E2%80%9C%E6%93%8D%E2%80%9D%E5%AD%97%E6%88%90%E7%BD%91%E7%BA%A2%E6%89%93%E5%8D%A1%E7%82%B9&sa=fyb_news&rsv_dl=fyb_news)
 1. [金店被抢走400多万黄金首饰？假](https://www.baidu.com/s?wd=%E9%87%91%E5%BA%97%E8%A2%AB%E6%8A%A2%E8%B5%B0400%E5%A4%9A%E4%B8%87%E9%BB%84%E9%87%91%E9%A6%96%E9%A5%B0%EF%BC%9F%E5%81%87&sa=fyb_news&rsv_dl=fyb_news)
+1. [德国连环强奸案告破 嫌犯系中国公民](https://www.baidu.com/s?wd=%E5%BE%B7%E5%9B%BD%E8%BF%9E%E7%8E%AF%E5%BC%BA%E5%A5%B8%E6%A1%88%E5%91%8A%E7%A0%B4+%E5%AB%8C%E7%8A%AF%E7%B3%BB%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91&sa=fyb_news&rsv_dl=fyb_news)
 1. [张艺谋任达华女儿入围巴黎名媛舞会](https://www.baidu.com/s?wd=%E5%BC%A0%E8%89%BA%E8%B0%8B%E4%BB%BB%E8%BE%BE%E5%8D%8E%E5%A5%B3%E5%84%BF%E5%85%A5%E5%9B%B4%E5%B7%B4%E9%BB%8E%E5%90%8D%E5%AA%9B%E8%88%9E%E4%BC%9A&sa=fyb_news&rsv_dl=fyb_news)
 1. [43岁司机高速上猝死 卡友接力送货](https://www.baidu.com/s?wd=43%E5%B2%81%E5%8F%B8%E6%9C%BA%E9%AB%98%E9%80%9F%E4%B8%8A%E7%8C%9D%E6%AD%BB+%E5%8D%A1%E5%8F%8B%E6%8E%A5%E5%8A%9B%E9%80%81%E8%B4%A7&sa=fyb_news&rsv_dl=fyb_news)
 1. [美国游客在日本明治神宫刻字被捕](https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E6%B8%B8%E5%AE%A2%E5%9C%A8%E6%97%A5%E6%9C%AC%E6%98%8E%E6%B2%BB%E7%A5%9E%E5%AE%AB%E5%88%BB%E5%AD%97%E8%A2%AB%E6%8D%95&sa=fyb_news&rsv_dl=fyb_news)
@@ -28,7 +29,6 @@
 1. [嫌疑人车上酣睡司机送至派出所](https://www.baidu.com/s?wd=%E5%AB%8C%E7%96%91%E4%BA%BA%E8%BD%A6%E4%B8%8A%E9%85%A3%E7%9D%A1%E5%8F%B8%E6%9C%BA%E9%80%81%E8%87%B3%E6%B4%BE%E5%87%BA%E6%89%80&sa=fyb_news&rsv_dl=fyb_news)
 1. [伊万确认李磊下场将缺席](https://www.baidu.com/s?wd=%E4%BC%8A%E4%B8%87%E7%A1%AE%E8%AE%A4%E6%9D%8E%E7%A3%8A%E4%B8%8B%E5%9C%BA%E5%B0%86%E7%BC%BA%E5%B8%AD&sa=fyb_news&rsv_dl=fyb_news)
 1. [#拆零件晾衣服直击航展公众日#](https://www.baidu.com/s?wd=%23%E6%8B%86%E9%9B%B6%E4%BB%B6%E6%99%BE%E8%A1%A3%E6%9C%8D%E7%9B%B4%E5%87%BB%E8%88%AA%E5%B1%95%E5%85%AC%E4%BC%97%E6%97%A5%23&sa=fyb_news&rsv_dl=fyb_news)
-1. [上海一路面的“操”字成网红打卡点](https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E4%B8%80%E8%B7%AF%E9%9D%A2%E7%9A%84%E2%80%9C%E6%93%8D%E2%80%9D%E5%AD%97%E6%88%90%E7%BD%91%E7%BA%A2%E6%89%93%E5%8D%A1%E7%82%B9&sa=fyb_news&rsv_dl=fyb_news)
 1. [郑钦文现身上汽奥迪展台](https://www.baidu.com/s?wd=%E9%83%91%E9%92%A6%E6%96%87%E7%8E%B0%E8%BA%AB%E4%B8%8A%E6%B1%BD%E5%A5%A5%E8%BF%AA%E5%B1%95%E5%8F%B0&sa=fyb_news&rsv_dl=fyb_news)
 1. [男子盗窃地铁工地电缆被刑拘](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%9B%97%E7%AA%83%E5%9C%B0%E9%93%81%E5%B7%A5%E5%9C%B0%E7%94%B5%E7%BC%86%E8%A2%AB%E5%88%91%E6%8B%98&sa=fyb_news&rsv_dl=fyb_news)
 1. [大爷要10元切糕结果切完变60元](https://www.baidu.com/s?wd=%E5%A4%A7%E7%88%B7%E8%A6%8110%E5%85%83%E5%88%87%E7%B3%95%E7%BB%93%E6%9E%9C%E5%88%87%E5%AE%8C%E5%8F%9860%E5%85%83&sa=fyb_news&rsv_dl=fyb_news)
