@@ -3,14 +3,14 @@
 记录百度热搜从 2024-01-13 日至今的热搜，每小时抓取一次数据，按天[归档](archives)。
 
 
-`更新时间：2025-01-08 00:36:04 +0800`
+`更新时间：2025-01-08 01:17:00 +0800`
 
 ## 百度热榜
 
 1. [西藏6.8级地震已致126人遇难](https://www.baidu.com/s?wd=%E8%A5%BF%E8%97%8F6.8%E7%BA%A7%E5%9C%B0%E9%9C%87%E5%B7%B2%E8%87%B4126%E4%BA%BA%E9%81%87%E9%9A%BE&sa=fyb_news&rsv_dl=fyb_news)
 1. [演员星星已成功获救 视频曝光](https://www.baidu.com/s?wd=%E6%BC%94%E5%91%98%E6%98%9F%E6%98%9F%E5%B7%B2%E6%88%90%E5%8A%9F%E8%8E%B7%E6%95%91+%E8%A7%86%E9%A2%91%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)
 1. [冬季呼吸道疾病多发 这些问题要注意](https://www.baidu.com/s?wd=%E5%86%AC%E5%AD%A3%E5%91%BC%E5%90%B8%E9%81%93%E7%96%BE%E7%97%85%E5%A4%9A%E5%8F%91+%E8%BF%99%E4%BA%9B%E9%97%AE%E9%A2%98%E8%A6%81%E6%B3%A8%E6%84%8F&sa=fyb_news&rsv_dl=fyb_news)
-1. [五条人买衣服表演后退货 造型师致歉](https://www.baidu.com/s?wd=%E4%BA%94%E6%9D%A1%E4%BA%BA%E4%B9%B0%E8%A1%A3%E6%9C%8D%E8%A1%A8%E6%BC%94%E5%90%8E%E9%80%80%E8%B4%A7+%E9%80%A0%E5%9E%8B%E5%B8%88%E8%87%B4%E6%AD%89&sa=fyb_news&rsv_dl=fyb_news)
+1. [韩红带医疗志愿者驰援西藏](https://www.baidu.com/s?wd=%E9%9F%A9%E7%BA%A2%E5%B8%A6%E5%8C%BB%E7%96%97%E5%BF%97%E6%84%BF%E8%80%85%E9%A9%B0%E6%8F%B4%E8%A5%BF%E8%97%8F&sa=fyb_news&rsv_dl=fyb_news)
 1. [为什么不建议临睡前再洗澡](https://www.baidu.com/s?wd=%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E5%BB%BA%E8%AE%AE%E4%B8%B4%E7%9D%A1%E5%89%8D%E5%86%8D%E6%B4%97%E6%BE%A1&sa=fyb_news&rsv_dl=fyb_news)
 1. [女婴两天哭闹不止竟因头发丝绕脚趾](https://www.baidu.com/s?wd=%E5%A5%B3%E5%A9%B4%E4%B8%A4%E5%A4%A9%E5%93%AD%E9%97%B9%E4%B8%8D%E6%AD%A2%E7%AB%9F%E5%9B%A0%E5%A4%B4%E5%8F%91%E4%B8%9D%E7%BB%95%E8%84%9A%E8%B6%BE&sa=fyb_news&rsv_dl=fyb_news)
 1. [健身网红朴胜贤去世](https://www.baidu.com/s?wd=%E5%81%A5%E8%BA%AB%E7%BD%91%E7%BA%A2%E6%9C%B4%E8%83%9C%E8%B4%A4%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news)
@@ -20,7 +20,6 @@
 1. [32岁前空姐称冲浪遭教练猥亵](https://www.baidu.com/s?wd=32%E5%B2%81%E5%89%8D%E7%A9%BA%E5%A7%90%E7%A7%B0%E5%86%B2%E6%B5%AA%E9%81%AD%E6%95%99%E7%BB%83%E7%8C%A5%E4%BA%B5&sa=fyb_news&rsv_dl=fyb_news)
 1. [流感患者要尽早用抗菌药？不实](https://www.baidu.com/s?wd=%E6%B5%81%E6%84%9F%E6%82%A3%E8%80%85%E8%A6%81%E5%B0%BD%E6%97%A9%E7%94%A8%E6%8A%97%E8%8F%8C%E8%8D%AF%EF%BC%9F%E4%B8%8D%E5%AE%9E&sa=fyb_news&rsv_dl=fyb_news)
 1. [98年民警抓患艾滋嫌犯受伤流血](https://www.baidu.com/s?wd=98%E5%B9%B4%E6%B0%91%E8%AD%A6%E6%8A%93%E6%82%A3%E8%89%BE%E6%BB%8B%E5%AB%8C%E7%8A%AF%E5%8F%97%E4%BC%A4%E6%B5%81%E8%A1%80&sa=fyb_news&rsv_dl=fyb_news)
-1. [韩红带医疗志愿者驰援西藏](https://www.baidu.com/s?wd=%E9%9F%A9%E7%BA%A2%E5%B8%A6%E5%8C%BB%E7%96%97%E5%BF%97%E6%84%BF%E8%80%85%E9%A9%B0%E6%8F%B4%E8%A5%BF%E8%97%8F&sa=fyb_news&rsv_dl=fyb_news)
 1. [陆毅家人给他送生日惊喜](https://www.baidu.com/s?wd=%E9%99%86%E6%AF%85%E5%AE%B6%E4%BA%BA%E7%BB%99%E4%BB%96%E9%80%81%E7%94%9F%E6%97%A5%E6%83%8A%E5%96%9C&sa=fyb_news&rsv_dl=fyb_news)
 1. [媒体人谈恒大足校](https://www.baidu.com/s?wd=%E5%AA%92%E4%BD%93%E4%BA%BA%E8%B0%88%E6%81%92%E5%A4%A7%E8%B6%B3%E6%A0%A1&sa=fyb_news&rsv_dl=fyb_news)
 1. [宋亚东2025年首战来了](https://www.baidu.com/s?wd=%E5%AE%8B%E4%BA%9A%E4%B8%9C2025%E5%B9%B4%E9%A6%96%E6%88%98%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)
@@ -46,8 +45,8 @@
 1. [落马院长收2亿回扣 房子设夹层藏钱](https://www.baidu.com/s?wd=%E8%90%BD%E9%A9%AC%E9%99%A2%E9%95%BF%E6%94%B62%E4%BA%BF%E5%9B%9E%E6%89%A3+%E6%88%BF%E5%AD%90%E8%AE%BE%E5%A4%B9%E5%B1%82%E8%97%8F%E9%92%B1&sa=fyb_news&rsv_dl=fyb_news)
 1. [莱奥当选意超杯决赛米兰队内最佳](https://www.baidu.com/s?wd=%E8%8E%B1%E5%A5%A5%E5%BD%93%E9%80%89%E6%84%8F%E8%B6%85%E6%9D%AF%E5%86%B3%E8%B5%9B%E7%B1%B3%E5%85%B0%E9%98%9F%E5%86%85%E6%9C%80%E4%BD%B3&sa=fyb_news&rsv_dl=fyb_news)
 1. [家里总有莫名的呼吸声？原来是刺猬](https://www.baidu.com/s?wd=%E5%AE%B6%E9%87%8C%E6%80%BB%E6%9C%89%E8%8E%AB%E5%90%8D%E7%9A%84%E5%91%BC%E5%90%B8%E5%A3%B0%EF%BC%9F%E5%8E%9F%E6%9D%A5%E6%98%AF%E5%88%BA%E7%8C%AC&sa=fyb_news&rsv_dl=fyb_news)
-1. [2岁娃酒店高烧保安拒交外卖药](https://www.baidu.com/s?wd=2%E5%B2%81%E5%A8%83%E9%85%92%E5%BA%97%E9%AB%98%E7%83%A7%E4%BF%9D%E5%AE%89%E6%8B%92%E4%BA%A4%E5%A4%96%E5%8D%96%E8%8D%AF&sa=fyb_news&rsv_dl=fyb_news)
 1. [男子日本旅游买车票问英文答中文](https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%97%A5%E6%9C%AC%E6%97%85%E6%B8%B8%E4%B9%B0%E8%BD%A6%E7%A5%A8%E9%97%AE%E8%8B%B1%E6%96%87%E7%AD%94%E4%B8%AD%E6%96%87&sa=fyb_news&rsv_dl=fyb_news)
+1. [2岁娃酒店高烧保安拒交外卖药](https://www.baidu.com/s?wd=2%E5%B2%81%E5%A8%83%E9%85%92%E5%BA%97%E9%AB%98%E7%83%A7%E4%BF%9D%E5%AE%89%E6%8B%92%E4%BA%A4%E5%A4%96%E5%8D%96%E8%8D%AF&sa=fyb_news&rsv_dl=fyb_news)
 1. [杨鸣：广厦是这赛季冠军最有力竞争者](https://www.baidu.com/s?wd=%E6%9D%A8%E9%B8%A3%EF%BC%9A%E5%B9%BF%E5%8E%A6%E6%98%AF%E8%BF%99%E8%B5%9B%E5%AD%A3%E5%86%A0%E5%86%9B%E6%9C%80%E6%9C%89%E5%8A%9B%E7%AB%9E%E4%BA%89%E8%80%85&sa=fyb_news&rsv_dl=fyb_news)
 1. [韩国空难客机引擎上发现羽毛](https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E7%A9%BA%E9%9A%BE%E5%AE%A2%E6%9C%BA%E5%BC%95%E6%93%8E%E4%B8%8A%E5%8F%91%E7%8E%B0%E7%BE%BD%E6%AF%9B&sa=fyb_news&rsv_dl=fyb_news)
 1. [杨紫李现 我的纯元cp复活了](https://www.baidu.com/s?wd=%E6%9D%A8%E7%B4%AB%E6%9D%8E%E7%8E%B0+%E6%88%91%E7%9A%84%E7%BA%AF%E5%85%83cp%E5%A4%8D%E6%B4%BB%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)
@@ -56,6 +55,7 @@
 1. [小米15S Pro曝光](https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B315S+Pro%E6%9B%9D%E5%85%89&sa=fyb_news&rsv_dl=fyb_news)
 1. [黄景瑜发长文告别冬至](https://www.baidu.com/s?wd=%E9%BB%84%E6%99%AF%E7%91%9C%E5%8F%91%E9%95%BF%E6%96%87%E5%91%8A%E5%88%AB%E5%86%AC%E8%87%B3&sa=fyb_news&rsv_dl=fyb_news)
 1. [甲流高发现在打疫苗还来得及吗？](https://www.baidu.com/s?wd=%E7%94%B2%E6%B5%81%E9%AB%98%E5%8F%91%E7%8E%B0%E5%9C%A8%E6%89%93%E7%96%AB%E8%8B%97%E8%BF%98%E6%9D%A5%E5%BE%97%E5%8F%8A%E5%90%97%EF%BC%9F&sa=fyb_news&rsv_dl=fyb_news)
+1. [10小时160元 横店群演春节期间涨薪](https://www.baidu.com/s?wd=10%E5%B0%8F%E6%97%B6160%E5%85%83+%E6%A8%AA%E5%BA%97%E7%BE%A4%E6%BC%94%E6%98%A5%E8%8A%82%E6%9C%9F%E9%97%B4%E6%B6%A8%E8%96%AA&sa=fyb_news&rsv_dl=fyb_news)
 1. [甲流又来了](https://www.baidu.com/s?wd=%E7%94%B2%E6%B5%81%E5%8F%88%E6%9D%A5%E4%BA%86&sa=fyb_news&rsv_dl=fyb_news)
 
 
